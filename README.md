@@ -1,5 +1,5 @@
 <h3 align="center">  Hi there 👋 </h3>
-
+<!--
 <p align="center"> ⚡ 내가 지금 내리는 결정이 내 인생에 어떤 영향을 가져올 지  고민하며 삶을 살아나가고 있습니다.⚡ </p>
 
 📋 Languages
@@ -17,7 +17,7 @@
 🎛️ Operating System
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+-->
 <!--
 **Jaeeun1083/Jaeeun1083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
